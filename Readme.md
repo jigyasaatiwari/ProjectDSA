@@ -27,3 +27,6 @@ Start the application by the below command
 ```
 streamlit run app.py
 ```
+View the application from :-
+
+https://dsa-project-ecommerce.streamlit.app/
